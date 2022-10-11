@@ -1,0 +1,106 @@
+@charset "utf-8";
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#left{
+    width: 140px;
+    height: 340px;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: #030399;
+    vertical-align: top;
+}
+#content{
+    display: inline-block;
+    /* background-color: #000066; */
+    height:260px;
+    width: 500px;
+    border: solid 41px #000066;
+    vertical-align: top;
+}
+#right{
+    display: inline-block;
+    height: 340px;
+    width: 245px;
+    background-color: rgb(81, 82, 83);
+    vertical-align: top;
+}
+#spoor20{
+    width: 106px;
+    height: 106px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    text-align: center;
+}
+#hoekje{
+    width: 25px;
+    height: 25px;
+    background-color: #030399;
+    border: 1px solid #030399;
+}
+#spoor20 h2{
+    font-size: 53px;
+    margin-top:2px;
+    color: #030399;
+}
+span{
+    margin-left: 30px;
+    margin-bottom: 50px;
+    color: #000066;
+}
+canvas{
+    width: 200px;
+    height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+    vertical-align: top;
+}
+#tijd{
+    color: #000066;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#nslogo{
+    width: 120px;
+    height: 50px;
+    float: right;
+    
+}
+#sprinter{
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-right: 10px;
+  height: 10px;
+  
+  
+}
+#locatie{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 12px;
+    margin-top: -1px;
+    color: #000066;
+}
+#tussenstop{
+    font-size: 25px;
+    font-weight: bold;
+    color: #000066;
+    margin-left: 12px;
+}
+#rijdtniet{
+    width: 100%;
+    background-color: #000066;
+    color: white;
+    height: 25px;
+    margin-bottom:2px;
+    padding-left: 12px;
+}
+#spoor{
+    color: #030399;
+    font-weight: bold;
+}
