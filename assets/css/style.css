@@ -5,7 +5,7 @@
 #left{
     width: 140px;
     height: 340px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: inline-block;
     background-color: #030399;
     vertical-align: top;
@@ -73,10 +73,10 @@ canvas{
   float: right;
   font-size: 25px;
   font-weight: bold;
-  margin-top: 5px;
+  margin-top: 10px;
   margin-right: 10px;
   height: 10px;
-  
+  margin-bottom: 0px;
   
 }
 #locatie{
